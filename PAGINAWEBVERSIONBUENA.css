@@ -284,7 +284,7 @@ header button:hover {
     opacity: 0;
     transition: opacity 1s ease-in;
 }
-
+FX(fade)
 .fade-in.visible {
     opacity: 1;
 }
