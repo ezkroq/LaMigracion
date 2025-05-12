@@ -231,9 +231,9 @@ header button:hover {
     line-height: 1.6;
     margin-bottom: 10px;
 }
-/* Cita */
+ Cita 
 .quote-section {
-    background-image: url("../Pictures/ONUPETRO.jpg");
+    background-image: url("ONUPETRO.jpg");
     background-size: cover;
     background-position: center;
     color: white;
